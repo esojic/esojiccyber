@@ -5,4 +5,4 @@ I am looking to grow and learn within the Cyber Security field! Thanks for dropp
 <h2>Certifications</h2>
 - CompTIA Security+
 <h2>Learning:</h2>
-<img src="https://tryhackme-badges.s3.amazonaws.com/VITChaDb.png" alt="TryHackMe">
+![tryhackme stats](https://raw.githubusercontent.com/<VITChaDb>/<VITChaDb>/master/assets/thm_propic.png)
