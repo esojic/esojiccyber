@@ -3,6 +3,6 @@ I am looking to grow and learn within the Cyber Security field! Thanks for dropp
 <h2>Projects:</h2>
 - Pending
 <h2>Certifications</h2>
-- CompTIA Security+
+- [CompTIA Security+](https://github.com/esojic/assets/blob/main/CompTIA%20Security%2B%20ce%20certificate_renewed.pdf)
 <h2>Learning:</h2>
-![tryhackme stats](https://raw.githubusercontent.com/<VITChaDb>/<VITChaDb>/master/assets/thm_propic.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/VITChaDb.png" alt="TryHackMe">
